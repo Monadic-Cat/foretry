@@ -3,6 +3,9 @@ name = "foretry"
 version = "0.1.0"
 authors = ["Monadic Cat <greenmonadcat@gmail.com>"]
 edition = "2018"
+description = "Some fake try-block macros"
+# I could be convinced to change the license, but AGPL is my default.
+license = "AGPL-3.0-only"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
